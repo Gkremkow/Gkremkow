@@ -1,5 +1,7 @@
 Hello there, my name is Gary Kremkow. The purpose of my Guihub is to host the code that I develop during my classes while at MCC as well as any possible coding projects in the future. I am going to start building up my own coding repertoire so that I can have something for future companies hiring me to look at. My current major is for programming for video games so having something, such as this, will be extremely helpful for me in the future.
 
+The work that I have uploaded so far comes from a previous course I had here at MCC, a web design course. It was our final project and shows off use of JS, CSS, and HTML 5. Other than this I have done a little bit of coding in python from another previous course, some PhP while in highschool, a bit of programming in the iPhone environment and its supported language, as well as Java, though that was all some time ago.
+
 <!--
 **Gkremkow/Gkremkow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
