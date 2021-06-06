@@ -2,6 +2,9 @@ Hello there, my name is Gary Kremkow. The purpose of my Guihub is to host the co
 
 The work that I have uploaded so far comes from a previous course I had here at MCC, a web design course. It was our final project and shows off use of JS, CSS, and HTML 5. Other than this I have done a little bit of coding in python from another previous course, some PhP while in highschool, a bit of programming in the iPhone environment and its supported language, as well as Java, though that was all some time ago.
 
+6/6/2021
+Added coding program that takes an int input from the user to establish the weight of cheese that they have. From this the program calculates the number of containers of cheese produced, the cost to produce this amount, and the profit from it all.
+
 <!--
 **Gkremkow/Gkremkow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
